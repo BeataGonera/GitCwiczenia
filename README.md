@@ -1,0 +1,2 @@
+# GitCwiczenia
+Practicing Git
